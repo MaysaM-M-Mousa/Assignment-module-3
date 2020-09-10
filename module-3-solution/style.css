@@ -1,0 +1,37 @@
+*{
+	box-sizing: border-box;
+}
+
+.topp{
+	font-size: 40px;
+	color:black;
+}
+
+div.element{
+	background-color: gray;
+	color: white;
+	height: 200px;
+	width: 100%;
+	border: black 1px solid;
+	overflow: auto;
+	margin-bottom: 40px;
+}
+h3{
+	margin-top: 5px;
+}
+p{
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#menuDiv{
+	margin-bottom: 30px;
+}
+
+p > a{
+	color: black;
+}
+
+
+
