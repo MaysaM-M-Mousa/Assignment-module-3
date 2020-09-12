@@ -35,8 +35,8 @@ p > a{
 }
 
 li{
-	margin-right: 20px;
-	margin-left: 20px;
+	margin-right: 0px;
+	margin-left: 0px;
 }
 
 
@@ -45,8 +45,9 @@ li:hover{
 	background-color: #9e9e9e;
 }
 
-@media (min-width: 767px){
+@media (min-width: 576px){
 	.displayItems{
 		display: none;
 	}
+
 }
